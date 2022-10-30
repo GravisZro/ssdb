@@ -1,0 +1,4 @@
+{ 'Incident_ID','Sources','Number_News','Media_Attention','Reliability','Date','Quarter','School','City','State','School_Level','Location','Location_Type','During_School','Time_Period','First_Shot','Summary','Narrative','Situation','Targets','Accomplice','Hostages','Barricade','Officer_Involved','Bullied','Domestic_Violence','Gang_Related','Preplanned','Shots_Fired','Active_Shooter_FBI' },
+{ 'incidentid','age','gender','race','schoolaffiliation','shooteroutcome','shooterdied','injury','chargesfiled','verdict','minorchargedadult','criminalhistory' },
+{ 'incidentid','race','injury','gender','schoolaffiliation','age' },
+{ 'incidentid','weaponcaliber','weapondetails','weapontype' },
